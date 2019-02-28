@@ -47,4 +47,10 @@ public class RomanNumeralConverterTest {
         assertEquals("X", converter.convert(10));
 
     }
+    @Test
+    public void convert20toXX(){
+
+        assertEquals("X", converter.convert(10));
+
+    }
 }
